@@ -36,6 +36,21 @@ ol, ul {
 	list-style: none;
 }
 
+.image_project{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    width: 300px;
+
+}
+
+.text_cell{
+	width: 300px;
+	text-align: center;
+	
+}
+
 .main-li::marker{
 	content: "🔷";
 }
