@@ -23,6 +23,12 @@
           "source":"/build",
           "destination":"/build/experiencias.html"
       }
+  ],
+  "redirects":[
+    {
+      "source":"/build/en",
+      "destination":"/build/en.html"
+    }
   ]
     
   }
