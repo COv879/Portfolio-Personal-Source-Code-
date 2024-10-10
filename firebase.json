@@ -27,7 +27,8 @@
   "redirects":[
     {
       "source":"/build/en",
-      "destination":"/build/en.html"
+      "destination":"/build/en.html",
+      "type":"301"
     }
   ]
     
